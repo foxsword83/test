@@ -1,0 +1,3 @@
+traveller_travel_advisor_homepage:
+    path:     /voyage/{nom}
+    defaults: { _controller: TravellerTravelAdvisorBundle:Default:index }
